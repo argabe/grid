@@ -1,0 +1,30 @@
+{
+  "name": "gdgrid/gd",
+  "description": "The PHP 7 Grid-Data Library",
+  "type": "library",
+  "license": "MIT",
+  "homepage": "https://github.com/gdgrid/gd",
+  "keywords": [
+    "grid",
+    "php",
+    "grid table",
+    "grid form",
+    "grid data",
+    "generator",
+    "table generator",
+    "form generator"
+  ],
+  "authors": [
+    {
+      "name": "GD Lab",
+      "email": "dev.gdgrid@gmail.com",
+      "role": "Developer"
+    }
+  ],
+  "support": {
+    "issues": "https://github.com/gdgrid/gd/issues"
+  },
+  "require": {
+    "php": ">=7.0.0"
+  }
+}
