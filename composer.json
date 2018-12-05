@@ -1,9 +1,9 @@
 {
-  "name": "gdgrid/gd",
+  "name": "argabe/grid",
   "description": "The PHP 7 Grid-Data Library",
   "type": "library",
   "license": "MIT",
-  "homepage": "https://github.com/gdgrid/gd",
+  "homepage": "https://github.com/argabe/grid",
   "keywords": [
     "grid",
     "php",
@@ -22,7 +22,7 @@
     }
   ],
   "support": {
-    "issues": "https://github.com/gdgrid/gd/issues"
+    "issues": "https://github.com/argabe/grid/issues"
   },
   "require": {
     "php": ">=7.0.0"
